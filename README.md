@@ -13,3 +13,10 @@
        'cpu_name_AMD', 'cpu_name_Intel Core i3', 'cpu_name_Intel Core i5',
        'cpu_name_Intel Core i7', 'cpu_name_Other', 'gpu_name_AMD',
        'gpu_name_Intel', 'gpu_name_Nvidia'
+
+
+
+
+
+Learn from : CodePRO LK YT
+Thank you!
